@@ -1,0 +1,6 @@
+@WebReactApp.Server_HostAddress = http://localhost:5193
+
+GET {{WebReactApp.Server_HostAddress}}/
+Accept: application/json
+
+###
